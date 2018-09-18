@@ -1,4 +1,4 @@
-Deploy caffe model.
+Deep learning, after train model, we deploy caffe model.
 ==
 cd project_full_code // enter the folder<Br/>
 python main.py //To run the code.
